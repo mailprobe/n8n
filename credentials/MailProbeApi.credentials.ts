@@ -16,7 +16,7 @@ export class MailProbeApi implements ICredentialType {
 		dark: 'file:../nodes/MailProbe/mailprobe.dark.svg',
 	};
 
-	documentationUrl = 'https://github.com/jamalofski/n8n-nodes-mailprobe#credentials';
+	documentationUrl = 'https://github.com/MailProbe/n8n#credentials';
 
 	properties: INodeProperties[] = [
 		{

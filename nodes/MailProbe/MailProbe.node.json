@@ -15,12 +15,12 @@
 	"resources": {
 		"credentialDocumentation": [
 			{
-				"url": "https://github.com/jamalofski/n8n-nodes-mailprobe#credentials"
+				"url": "https://github.com/MailProbe/n8n#credentials"
 			}
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://github.com/jamalofski/n8n-nodes-mailprobe#readme"
+				"url": "https://github.com/MailProbe/n8n#readme"
 			}
 		]
 	}
