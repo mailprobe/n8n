@@ -60,7 +60,7 @@ Built and tested against `n8n-workflow` 2.40.
 
 ## Support
 
-Open an [issue](https://github.com/MailProbe/n8n/issues) or write to contact@mailprobe.dev.
+Open an [issue](https://github.com/mailprobe/n8n/issues) or write to contact@mailprobe.dev.
 
 ## License
 

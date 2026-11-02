@@ -20,10 +20,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MailProbe/n8n.git"
+		"url": "git+https://github.com/mailprobe/n8n.git"
 	},
 	"bugs": {
-		"url": "https://github.com/MailProbe/n8n/issues"
+		"url": "https://github.com/mailprobe/n8n/issues"
 	},
 	"scripts": {
 		"build": "n8n-node build",
