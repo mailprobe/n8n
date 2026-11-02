@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 (2026-11-02)
+
+- The repository moved to the MailProbe organization: [github.com/MailProbe/n8n](https://github.com/MailProbe/n8n). The package, the credential and the node link there for their documentation; the old address redirects.
+
 ## 1.0.2 (2026-10-09)
 
 - The codex file names the node by its full identifier, `n8n-nodes-mailprobe.mailProbe`, as n8n's review asks.
